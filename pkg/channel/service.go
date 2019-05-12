@@ -7,7 +7,7 @@ import (
 	"github.com/pjoc-team/base-service/pkg/service"
 	"github.com/pjoc-team/channel-isppay/pkg/sdk"
 	"github.com/pjoc-team/etcd-config/config"
-	pb "github.com/pjoc-team/proto/go"
+	pb "github.com/pjoc-team/pay-proto/go"
 	"github.com/pkg/errors"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"

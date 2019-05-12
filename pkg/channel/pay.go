@@ -7,7 +7,7 @@ import (
 	"github.com/pjoc-team/base-service/pkg/logger"
 	"github.com/pjoc-team/base-service/pkg/url"
 	"github.com/pjoc-team/channel-isppay/pkg/sdk"
-	pb "github.com/pjoc-team/proto/go"
+	pb "github.com/pjoc-team/pay-proto/go"
 	"time"
 )
 
